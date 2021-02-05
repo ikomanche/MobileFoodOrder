@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "x9RgHgkGguLF/l4VtPwepAUWpZX+/iiTEHmCiRlfOSgS/56cCF6Iso8NC5l7Z6TOStScvh6L3hc3o1FWSWNgxg==",
+  "dgSpecHash": "BQUZFDRdnK+QDrfKAlYQGnwAUCz6KH8mIwlA2qIu0W3uzdkTXgF9ESRqgfve/KKZxWZnM09DCsPYh1kbuyi5+g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kilin\\source\\repos\\FoodOrder\\FoodOrder.iOS\\FoodOrder.iOS.csproj",
+  "projectFilePath": "C:\\Users\\kilin\\Documents\\MobileFoodOrder\\FoodOrder.iOS\\FoodOrder.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kilin\\.nuget\\packages\\firebasedatabase.net\\4.0.5\\firebasedatabase.net.4.0.5.nupkg.sha512",
     "C:\\Users\\kilin\\.nuget\\packages\\litedb\\4.1.4\\litedb.4.1.4.nupkg.sha512",

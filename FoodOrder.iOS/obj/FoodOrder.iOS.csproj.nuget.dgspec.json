@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kilin\\source\\repos\\FoodOrder\\FoodOrder.iOS\\FoodOrder.iOS.csproj": {}
+    "C:\\Users\\kilin\\Documents\\MobileFoodOrder\\FoodOrder.iOS\\FoodOrder.iOS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kilin\\source\\repos\\FoodOrder\\FoodOrder.iOS\\FoodOrder.iOS.csproj": {
+    "C:\\Users\\kilin\\Documents\\MobileFoodOrder\\FoodOrder.iOS\\FoodOrder.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kilin\\source\\repos\\FoodOrder\\FoodOrder.iOS\\FoodOrder.iOS.csproj",
+        "projectUniqueName": "C:\\Users\\kilin\\Documents\\MobileFoodOrder\\FoodOrder.iOS\\FoodOrder.iOS.csproj",
         "projectName": "FoodOrder.iOS",
-        "projectPath": "C:\\Users\\kilin\\source\\repos\\FoodOrder\\FoodOrder.iOS\\FoodOrder.iOS.csproj",
+        "projectPath": "C:\\Users\\kilin\\Documents\\MobileFoodOrder\\FoodOrder.iOS\\FoodOrder.iOS.csproj",
         "packagesPath": "C:\\Users\\kilin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kilin\\source\\repos\\FoodOrder\\FoodOrder.iOS\\obj\\",
+        "outputPath": "C:\\Users\\kilin\\Documents\\MobileFoodOrder\\FoodOrder.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\Users\\kilin\\source\\repos\\FoodOrder\\FoodOrder\\FoodOrder.csproj": {
-                "projectPath": "C:\\Users\\kilin\\source\\repos\\FoodOrder\\FoodOrder\\FoodOrder.csproj"
+              "C:\\Users\\kilin\\Documents\\MobileFoodOrder\\FoodOrder\\FoodOrder.csproj": {
+                "projectPath": "C:\\Users\\kilin\\Documents\\MobileFoodOrder\\FoodOrder\\FoodOrder.csproj"
               }
             }
           }
@@ -73,14 +73,14 @@
         }
       }
     },
-    "C:\\Users\\kilin\\source\\repos\\FoodOrder\\FoodOrder\\FoodOrder.csproj": {
+    "C:\\Users\\kilin\\Documents\\MobileFoodOrder\\FoodOrder\\FoodOrder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kilin\\source\\repos\\FoodOrder\\FoodOrder\\FoodOrder.csproj",
+        "projectUniqueName": "C:\\Users\\kilin\\Documents\\MobileFoodOrder\\FoodOrder\\FoodOrder.csproj",
         "projectName": "FoodOrder",
-        "projectPath": "C:\\Users\\kilin\\source\\repos\\FoodOrder\\FoodOrder\\FoodOrder.csproj",
+        "projectPath": "C:\\Users\\kilin\\Documents\\MobileFoodOrder\\FoodOrder\\FoodOrder.csproj",
         "packagesPath": "C:\\Users\\kilin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kilin\\source\\repos\\FoodOrder\\FoodOrder\\obj\\",
+        "outputPath": "C:\\Users\\kilin\\Documents\\MobileFoodOrder\\FoodOrder\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

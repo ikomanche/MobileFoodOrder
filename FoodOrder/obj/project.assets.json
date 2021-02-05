@@ -1508,11 +1508,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kilin\\source\\repos\\FoodOrder\\FoodOrder\\FoodOrder.csproj",
+      "projectUniqueName": "C:\\Users\\kilin\\Documents\\MobileFoodOrder\\FoodOrder\\FoodOrder.csproj",
       "projectName": "FoodOrder",
-      "projectPath": "C:\\Users\\kilin\\source\\repos\\FoodOrder\\FoodOrder\\FoodOrder.csproj",
+      "projectPath": "C:\\Users\\kilin\\Documents\\MobileFoodOrder\\FoodOrder\\FoodOrder.csproj",
       "packagesPath": "C:\\Users\\kilin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kilin\\source\\repos\\FoodOrder\\FoodOrder\\obj\\",
+      "outputPath": "C:\\Users\\kilin\\Documents\\MobileFoodOrder\\FoodOrder\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

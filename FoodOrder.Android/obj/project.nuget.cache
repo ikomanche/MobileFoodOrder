@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RFmPAeB9iMud5c00P3YZFwwQEXoWvdHPESpqohhCdDmWTd5Dktf0fXlgrOBMf1tBct6Ypuf8GT1s98gXYxon2A==",
+  "dgSpecHash": "SgN6t2IAWIFDLUUHv31emwlhkMMfQlXytlq/dMbcpUaZU69DRmSf/hInowJJLDdH9v4Q76P2jJqL6RTWhuHD5w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kilin\\source\\repos\\FoodOrder\\FoodOrder.Android\\FoodOrder.Android.csproj",
+  "projectFilePath": "C:\\Users\\kilin\\Documents\\MobileFoodOrder\\FoodOrder.Android\\FoodOrder.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kilin\\.nuget\\packages\\firebasedatabase.net\\4.0.5\\firebasedatabase.net.4.0.5.nupkg.sha512",
     "C:\\Users\\kilin\\.nuget\\packages\\litedb\\4.1.4\\litedb.4.1.4.nupkg.sha512",
