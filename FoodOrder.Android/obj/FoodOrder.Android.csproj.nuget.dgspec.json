@@ -57,6 +57,10 @@
             "Xamarin.Forms.Visual.Material": {
               "target": "Package",
               "version": "[5.0.0.1905, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.7.335, )"
             }
           }
         }
@@ -127,6 +131,10 @@
             "Xamarin.Forms.Visual.Material": {
               "target": "Package",
               "version": "[5.0.0.1905, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.7.335, )"
             }
           },
           "imports": [

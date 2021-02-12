@@ -12,11 +12,12 @@
                 <RowDefinition Height="*"/>
             </Grid.RowDefinitions>
             <Image Grid.Row="0" Source="{Binding SelectedCategory.CategoryPoster}"
-                   Aspect="AspectFit" VerticalOptions="Start"/>
+                   Aspect="Fill" VerticalOptions="Start"/>
             <Label Grid.Row="1" Text="{Binding SelectedCategory.CategoryName}" TextColor="White"
                    FontAttributes="Bold" FontSize="35" Margin="25,-85,0,0"/>
             <ImageButton Source="{FontImage FontFamily=materialdesignicons-webfont.ttf#FontAwesome, Glyph={x:Static helpers:IconFont.ArrowLeft}, Size=30,Color=White}"
-                         Grid.Row="0" HorizontalOptions="Start" Aspect="AspectFit" VerticalOptions="Start" Margin="10,30" Clicked="ImageButton_Clicked"/>
+                         Grid.Row="0" HorizontalOptions="Start" Aspect="AspectFit" VerticalOptions="Start" Margin="10,30" 
+                         Clicked="ImageButton_Clicked" BackgroundColor="Transparent"/>
 
             <pancake:PancakeView Grid.Row="2" CornerRadius="30" BackgroundColor="White" Margin="0,-40">
                 <Grid Padding="25,30">

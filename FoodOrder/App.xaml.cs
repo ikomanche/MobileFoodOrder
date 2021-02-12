@@ -17,7 +17,7 @@ namespace FoodOrder
             //MainPage = new NavigationPage(new SettingsPage());
 
             string uname = Preferences.Get("Username", String.Empty);
-            if(String.IsNullOrEmpty(uname))
+            if (String.IsNullOrEmpty(uname))
             {
                 MainPage = new LoginView();
             }
